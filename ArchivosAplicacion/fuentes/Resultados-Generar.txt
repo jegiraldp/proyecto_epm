@@ -1,0 +1,17 @@
+------ Operación Generar iniciada: proyecto: EPM, configuración: Debug .NET ------
+
+Preparando recursos...
+Actualizando referencias...
+Realizando compilación principal...
+d:\worknet\epm renovables\clases\util.cs(12,21): warning CS0649: El campo 'EPM.clases.Util.dt' nunca se asigna y siempre tendrá el valor predeterminado null
+
+Generación completada -- 0 errores, 1 advertencias
+Generando ensamblados satélite...
+
+
+
+---------------------- Listo ----------------------
+
+    Generar: 1 correctos, 0 incorrectos, 0 omitidos
+
+

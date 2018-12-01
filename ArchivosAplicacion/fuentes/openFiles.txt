@@ -1,0 +1,34 @@
+ Esta simple función permite abrir el visualizador por defecto asociado a la extension del fichero que le pasamos.
+
+Ejemplo.
+
+Abrir una pagina web con el explorador por defecho desde c#
+
+    fncAbrirVisorFichero("http://www.dialway.com")
+
+Abrir una documento pdf con sharp
+
+    fncAbrirVisorFichero("c:\\directorio\\fichero.pdf")
+     
+
+Abrir un fichero excel, word, etc
+ 
+
+    string szFichero;
+    szFichero="c:\\mifichero.doc"
+    fncAbrirVisorFichero(szFichero)
+    szFichero="c:\\mifichero.xls"
+    fncAbrirVisorFichero(szFichero);
+
+    szFichero="c:\\mifichero.txts"
+    fncAbrirVisorFichero(szFichero);
+    
+void fncAbrirVisorFichero(string szFichero)
+
+{
+
+   System.Diagnostics.Process.Start(szFichero); 
+
+}
+
+ 

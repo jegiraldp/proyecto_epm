@@ -1,0 +1,462 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{2241E3E4-4564-4413-9B61-6D90701B83FE}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "otros\App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "EPM Alternativas"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "EPM"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Windows.Forms"
+                    AssemblyName = "CrystalDecisions.Windows.Forms"
+                    HintPath = "C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.1\Managed\CrystalDecisions.Windows.Forms.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "System.Web.Services"
+                    AssemblyName = "System.Web.Services"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.Services.dll"
+                />
+                <Reference
+                    Name = "stdole"
+                    Guid = "{00020430-0000-0000-C000-000000000046}"
+                    VersionMajor = "2"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "primary"
+                />
+                <Reference
+                    Name = "itextsharp"
+                    AssemblyName = "itextsharp"
+                    HintPath = "..\textpdf\itextsharp-3.0.7\bin\Debug\itextsharp.dll"
+                />
+                <Reference
+                    Name = "RKLib.ExportData"
+                    AssemblyName = "RKLib.ExportData"
+                    HintPath = "bin\RKLib.ExportData.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Resultados-Generar.txt"
+                    BuildAction = "Content"
+                />
+                <Folder RelPath = "bin\" />
+                <File
+                    RelPath = "clases\ConexionDB.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "clases\MdiParent.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "clases\Ppal.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "clases\User.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "clases\Util.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmAbout.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmAbout.resx"
+                    DependentUpon = "frmAbout.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmArchivo.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmArchivo.resx"
+                    DependentUpon = "frmArchivo.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmConfig.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmConfig.resx"
+                    DependentUpon = "frmConfig.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmDatosVariable.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmDatosVariable.resx"
+                    DependentUpon = "frmDatosVariable.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmDelUser.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmDelUser.resx"
+                    DependentUpon = "frmDelUser.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmEliminar.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmEliminar.resx"
+                    DependentUpon = "frmEliminar.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmMain.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmMain.resx"
+                    DependentUpon = "frmMain.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaFA.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaFA.resx"
+                    DependentUpon = "frmNuevaFA.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaFuente.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaFuente.resx"
+                    DependentUpon = "frmNuevaFuente.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaVariable.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaVariable.resx"
+                    DependentUpon = "frmNuevaVariable.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaVT.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevaVT.resx"
+                    DependentUpon = "frmNuevaVT.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoGrupo.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoGrupo.resx"
+                    DependentUpon = "frmNuevoGrupo.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoProceso.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoProceso.resx"
+                    DependentUpon = "frmNuevoProceso.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoRecurso.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmNuevoRecurso.resx"
+                    DependentUpon = "frmNuevoRecurso.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmReportes.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmReportes.resx"
+                    DependentUpon = "frmReportes.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmRepositorio.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmRepositorio.resx"
+                    DependentUpon = "frmRepositorio.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmUser.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmUser.resx"
+                    DependentUpon = "frmUser.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmUsuarioEdit.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmUsuarioEdit.resx"
+                    DependentUpon = "frmUsuarioEdit.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "formularios\frmWelcome.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "formularios\frmWelcome.resx"
+                    DependentUpon = "frmWelcome.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Imagenes\Abrir.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\attach.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\delete.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\Energy.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\exit.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\find.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\fuente.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\help.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\imgPresentacion.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\new.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\open.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\preview.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\print.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\save.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\save2.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\Source.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\ZoomIn.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Imagenes\ZoomOut.bmp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "obj\AxInterop.MSFlexGridLib.dll"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "obj\Interop.MSFlexGridLib.dll"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "obj\Debug\EPM Renovables.exe"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "obj\Debug\EPM Renovables.pdb"
+                    BuildAction = "Content"
+                />
+                <Folder RelPath = "obj\Debug\temp\" />
+                <Folder RelPath = "obj\Debug\TempPE\" />
+                <File
+                    RelPath = "obj\Release\EPM Renovables.exe"
+                    BuildAction = "Content"
+                />
+                <Folder RelPath = "obj\Release\temp\" />
+                <Folder RelPath = "obj\Release\TempPE\" />
+                <File
+                    RelPath = "otros\App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "otros\AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "otros\bd.cfg"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "otros\Create Tables 27 Septiembre.sql"
+                    BuildAction = "Content"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

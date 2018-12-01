@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPM", "EPM.csproj", "{2241E3E4-4564-4413-9B61-6D90701B83FE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2241E3E4-4564-4413-9B61-6D90701B83FE}.Debug.ActiveCfg = Debug|.NET
+		{2241E3E4-4564-4413-9B61-6D90701B83FE}.Debug.Build.0 = Debug|.NET
+		{2241E3E4-4564-4413-9B61-6D90701B83FE}.Release.ActiveCfg = Debug|.NET
+		{2241E3E4-4564-4413-9B61-6D90701B83FE}.Release.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

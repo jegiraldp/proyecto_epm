@@ -1,0 +1,28 @@
+obj\Debug\EPM Alternativas.exe
+obj\Debug\EPM Alternativas.pdb
+bin\EPM Alternativas.exe
+bin\EPM Alternativas.pdb
+bin\itextsharp.pdb
+bin\itextsharp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EPM.csproj.ResolveComReference.cache
+obj\Debug\EPM.formularios.frmAbout.resources
+obj\Debug\EPM.formularios.frmArchivo.resources
+obj\Debug\EPM.formularios.frmConfig.resources
+obj\Debug\EPM.formularios.frmDatosVariable.resources
+obj\Debug\EPM.formularios.frmDelUser.resources
+obj\Debug\EPM.formularios.frmEliminar.resources
+obj\Debug\EPM.formularios.frmMain.resources
+obj\Debug\EPM.formularios.frmNuevaFA.resources
+obj\Debug\EPM.formularios.frmNuevaFuente.resources
+obj\Debug\EPM.formularios.frmNuevaVariable.resources
+obj\Debug\EPM.formularios.frmNuevaVT.resources
+obj\Debug\EPM.formularios.frmNuevoGrupo.resources
+obj\Debug\EPM.formularios.frmNuevoProceso.resources
+obj\Debug\EPM.formularios.frmNuevoRecurso.resources
+obj\Debug\EPM.formularios.frmReportes.resources
+obj\Debug\EPM.formularios.frmDir.resources
+obj\Debug\EPM.formularios.frmUser.resources
+obj\Debug\EPM.formularios.frmUsuarioEdit.resources
+obj\Debug\EPM.frmWelcome.resources
+obj\Debug\EPM.csproj.GenerateResource.Cache

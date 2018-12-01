@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EPM">
+</Property><Property Name="Solution File" Value="C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\EPM.sln">
+</Property><Property Name="User Options File" Value="C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\EPM.suo">
+</Property><Property Name="Date" Value="Sábado, 27 de Octubre de 2007">
+</Property><Property Name="Time" Value="15:53 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EPM.sln" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\EPM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EPM.suo" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\EPM.suo">
+</Event><Event ErrorLevel="0" Project="EPM" Source="EPM.csproj" Description="Project file successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\EPM.csproj">
+</Event><Event ErrorLevel="0" Project="EPM" Source="EPM.csproj.user" Description="Project user file successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\EPM.csproj.user">
+</Event><Event ErrorLevel="0" Project="EPM" Source="clases\ConexionDB.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\clases\ConexionDB.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="clases\MdiParent.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\clases\MdiParent.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="clases\Ppal.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\clases\Ppal.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="clases\User.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\clases\User.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="clases\Util.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\clases\Util.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmAbout.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmArchivo.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmArchivo.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmConfig.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmConfig.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmDatosVariable.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmDatosVariable.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmDelUser.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmDelUser.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmEliminar.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmEliminar.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmMain.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaFA.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaFA.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaFuente.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaFuente.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaVariable.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaVariable.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaVT.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaVT.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoGrupo.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoGrupo.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoProceso.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoProceso.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoRecurso.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoRecurso.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmReportes.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmReportes.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmRepositorio.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmRepositorio.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmUser.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmUser.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmUsuarioEdit.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmUsuarioEdit.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmWelcome.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmWelcome.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="otros\AssemblyInfo.cs" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\otros\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EPM" Source="otros\bd.cfg" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\otros\bd.cfg">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\Abrir.ico" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\Abrir.ico">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\attach.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\attach.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\delete.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\delete.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\Energy.ico" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\Energy.ico">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\exit.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\exit.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\find.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\find.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\fuente.ico" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\fuente.ico">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\help.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\help.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\imgPresentacion.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\imgPresentacion.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\new.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\new.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\open.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\open.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\preview.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\preview.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\print.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\print.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\save.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\save.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\save2.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\save2.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\Source.ico" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\Source.ico">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\ZoomIn.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\ZoomIn.bmp">
+</Event><Event ErrorLevel="2" Project="EPM" Source="Imagenes\ZoomOut.bmp" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Imagenes\ZoomOut.bmp">
+</Event><Event ErrorLevel="0" Project="EPM" Source="obj\AxInterop.MSFlexGridLib.dll" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\obj\AxInterop.MSFlexGridLib.dll">
+</Event><Event ErrorLevel="2" Project="EPM" Source="obj\Debug\EPM Renovables.exe" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\obj\Debug\EPM Renovables.exe">
+</Event><Event ErrorLevel="2" Project="EPM" Source="obj\Debug\EPM Renovables.pdb" Description="Failed to backup file as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\obj\Debug\EPM Renovables.pdb">
+</Event><Event ErrorLevel="0" Project="EPM" Source="obj\Interop.MSFlexGridLib.dll" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\obj\Interop.MSFlexGridLib.dll">
+</Event><Event ErrorLevel="0" Project="EPM" Source="obj\Release\EPM Renovables.exe" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\obj\Release\EPM Renovables.exe">
+</Event><Event ErrorLevel="0" Project="EPM" Source="otros\App.ico" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\otros\App.ico">
+</Event><Event ErrorLevel="0" Project="EPM" Source="otros\Create Tables 27 Septiembre.sql" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\otros\Create Tables 27 Septiembre.sql">
+</Event><Event ErrorLevel="0" Project="EPM" Source="Resultados-Generar.txt" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\Resultados-Generar.txt">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmAbout.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmArchivo.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmArchivo.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmConfig.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmConfig.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmDatosVariable.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmDatosVariable.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmDelUser.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmDelUser.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmEliminar.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmEliminar.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmMain.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaFA.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaFA.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaFuente.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaFuente.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaVariable.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaVariable.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevaVT.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevaVT.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoGrupo.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoGrupo.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoProceso.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoProceso.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmNuevoRecurso.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmNuevoRecurso.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmReportes.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmReportes.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmRepositorio.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmRepositorio.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmUser.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmUser.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmUsuarioEdit.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmUsuarioEdit.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="formularios\frmWelcome.resx" Description="File successfully backed up as C:\BD EEPPM FINAL\ArchivosAplicacion\fuentes\Backup\formularios\frmWelcome.resx">
+</Event><Event ErrorLevel="0" Project="EPM" Source="EPM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EPM" Source="EPM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EPM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EPM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EPM" Source="EPM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

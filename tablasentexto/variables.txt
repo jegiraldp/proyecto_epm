@@ -1,0 +1,44 @@
+1,"Disponibilidad del recurso","No aplica",1
+2,"Intermitencia ","No aplica",1
+3,"Almacenamiento","No aplica",1
+4,"Factor de utilización","%",1
+5,"Escala","MW",1
+6,"Posibilidad de interconexión","No aplica",1
+7,"Crecimiento últimos años","MW",2
+8,"Países con mayor desarrollo","No aplica",2
+9,"Desarrollo en paises latinoamericanos","No aplica",2
+10,"Tasa de crecimiento anual","%",2
+11,"Proyecciones de crecimiento","No aplica",2
+12,"Vida útil","años",3
+13,"Modularidad","No aplica",3
+14,"Grado de madurez","No aplica",3
+15,"Tiempo de instalación","meses",3
+16,"Niveles de eficiencia","%",3
+17,"Requerimiento de mantenimiento","No aplica",3
+18,"Costo de instalación","USD/kW",4
+19,"Costo de generación","USD/kWh",4
+20,"Costo O&M","USD/kWh",4
+21,"Perspectivas de competitividad","No aplica",4
+22,"Nivel de emisiones","No aplica",5
+23,"Impactos ambientales positivos","No aplica",5
+24,"Impactos ambientales negativos","No aplica",5
+25,"Perspectivas de nuevas aplicaciones","No aplica",6
+26,"Programas de I+D","No aplica",6
+27,"Asistencia técnica","No aplica",7
+28,"Beneficios tributarios","No aplica",7
+29,"Disponibilidad de la información","No aplica",8
+30,"Actualidad de la información","No aplica",8
+31,"Disponibilidad del recurso en Colombia","No aplica",9
+32,"Estudios de aprovechamiento","No aplica",9
+33,"Potencial","MW",9
+34,"Condiciones particulares de Colombia para el aprovechamiento","No aplica",9
+35,"Implicaciones para el sector electrico Colombiano","No aplica",9
+36,"Impactos socioeconómicos","No aplica",9
+37,"Escala producción de hidrógeno"," ""kg/día""",1
+38,"Costo de producción","US$/Kg",4
+39,"Costo de distribución","US$/Kg",4
+40,"Costo de dispensación"," ""US$/Kg""",4
+41,"Recurso de alimentacion","US$/Kg",4
+42,"Oxidante","No aplica",1
+43,"Electrolito","No aplica",3
+44,"Temperatura de operación","°C",3
